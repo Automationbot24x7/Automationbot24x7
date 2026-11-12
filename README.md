@@ -66,6 +66,14 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><a href="https://youtu.be/z3iJZXUgozs">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/kane-signoff">Code</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://automationbot24x7.github.io/doodle-sumo/"><img src="assets/doodle-sumo.jpg" alt="Doodle Sumo" width="100%"></a>
+      <p><b><a href="https://automationbot24x7.github.io/doodle-sumo/">Doodle Sumo</a></b>: crayon doodles become 3D sumo toys. Every fighter, skeleton, move and desk-trap hinge was made with Aholo Lux3D; shove your rivals off a giant desk in the browser.</p>
+      <p><a href="https://automationbot24x7.github.io/doodle-sumo/">Play</a> · <a href="https://automationbot24x7.github.io/doodle-sumo/assets/video/doodle-sumo-demo.mp4">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/doodle-sumo">Code</a></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 Mostly Python and JavaScript; onchain work on Sui, Walrus and NEAR.
