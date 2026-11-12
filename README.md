@@ -1,10 +1,23 @@
 ### Hi, I'm Rajeev
 
-I work in finance and automation, and I build tools for AI agents and the people who use them: agent plugins, onchain apps, and the short films that explain them. Most of the projects below went from idea to live demo in a hackathon sprint of a few days.
+I work in finance and automation, and I build with AI: finance apps, agent plugins, onchain games and narrated films. I also run [ReconScribe](https://reconscribe.com), free AI and finance tools and guides. Most of the projects below went from idea to live demo in a hackathon sprint of a few days.
 
-I also run [ReconScribe](https://reconscribe.com): free AI and finance tools, guides and trackers.
+🥉 **Third Prize, [SandBase AI City Remix](https://www.sandbase.ai/lab/event/aicityremix)** (Nov 2026) for *One Ticket, 800 Years*, a film made with TimeLine. 96 films from 65 cities were entered.<br>
+🏅 **Special mention, [Bolt Builders Week](https://bolt.new/builders-week)** (Oct 2026) for WrappedLedger, picked by the judges from more than 1,000 entries.
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.sandbase.ai/lab/event/aicityremix/e/dae11f90-c303-491e-bd6a-7d24e04b40da"><img src="assets/timeline.jpg" alt="One Ticket, 800 Years" width="100%"></a>
+      <p><b><a href="https://github.com/Automationbot24x7/timeline-city">TimeLine</a></b>: ride a metro line through a city's history. A pipeline that directs narrated, fact-checked map films over a 3D city.</p>
+      <p>🥉 Third Prize, SandBase AI City Remix<br><a href="https://www.sandbase.ai/lab/event/aicityremix/e/dae11f90-c303-491e-bd6a-7d24e04b40da">Watch the film</a> · <a href="https://github.com/Automationbot24x7/timeline-city">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://bank-statement-cinem-9ipm.bolt.host"><img src="assets/wrappedledger.jpg" alt="WrappedLedger" width="100%"></a>
+      <p><b><a href="https://bank-statement-cinem-9ipm.bolt.host">WrappedLedger</a></b>: turns the bank statement you already have into a money plan. AI reads every line, then proves it to the cent against the closing balance.</p>
+      <p>🏅 Special mention, Bolt Builders Week<br><a href="https://bank-statement-cinem-9ipm.bolt.host">Try it free</a> · <a href="https://www.youtube.com/watch?v=pqHyEfaAOHY">Watch the demo</a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://hermes-agent.nousresearch.com/marketplace/tusk/"><img src="assets/tusk.jpg" alt="Tusk" width="100%"></a>
@@ -36,9 +49,9 @@ I also run [ReconScribe](https://reconscribe.com): free AI and finance tools, gu
       <p><a href="https://automationbot24x7.github.io/hindsight/">Live site</a> · <a href="https://github.com/Automationbot24x7/hindsight">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Automationbot24x7/timeline-city"><img src="assets/timeline.jpg" alt="TimeLine" width="100%"></a>
-      <p><b><a href="https://github.com/Automationbot24x7/timeline-city">TimeLine</a></b>: ride a metro line through a city's history. A pipeline that directs narrated, fact-checked map films over a 3D city.</p>
-      <p><a href="https://github.com/Automationbot24x7/timeline-city">Code</a></p>
+      <a href="https://reconscribe.com"><img src="assets/reconscribe.jpg" alt="ReconScribe" width="100%"></a>
+      <p><b><a href="https://reconscribe.com">ReconScribe</a></b>: a free AI leaderboard, AI credits and hackathon guides, plus finance and tax calculators, Excel templates and source-backed guides.</p>
+      <p><a href="https://reconscribe.com">reconscribe.com</a> · <a href="https://www.youtube.com/@ReconScribe">YouTube</a></p>
     </td>
   </tr>
 </table>
