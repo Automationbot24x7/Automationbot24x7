@@ -60,7 +60,11 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><b><a href="https://reconscribe.com">ReconScribe</a></b>: a free AI leaderboard, AI credits and hackathon guides, plus finance and tax calculators, Excel templates and source-backed guides.</p>
       <p><a href="https://reconscribe.com">reconscribe.com</a> · <a href="https://www.youtube.com/@ReconScribe">YouTube</a></p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Automationbot24x7/kane-signoff"><img src="assets/signoff.jpg" alt="Signoff" width="100%"></a>
+      <p><b><a href="https://github.com/Automationbot24x7/kane-signoff">Signoff</a></b>: a coding agent isn't done until Kane CLI signs off. A Stop hook tests the app in a real browser and sends every failure back to the agent until it passes.</p>
+      <p><a href="https://youtu.be/z3iJZXUgozs">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/kane-signoff">Code</a></p>
+    </td>
   </tr>
 </table>
 
