@@ -72,7 +72,11 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><b><a href="https://automationbot24x7.github.io/doodle-sumo/">Doodle Sumo</a></b>: crayon doodles become 3D sumo toys. Every fighter, skeleton, move and desk-trap hinge was made with Aholo Lux3D; shove your rivals off a giant desk in the browser.</p>
       <p><a href="https://automationbot24x7.github.io/doodle-sumo/">Play</a> · <a href="https://automationbot24x7.github.io/doodle-sumo/assets/video/doodle-sumo-demo.mp4">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/doodle-sumo">Code</a></p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://automationbot24x7.github.io/trailmark/"><img src="assets/trailmark.jpg" alt="Trailmark" width="100%"></a>
+      <p><b><a href="https://github.com/Automationbot24x7/trailmark">Trailmark</a></b>: why doesn't this invoice reconcile? Accounts payable as a Neo4j Relate graph, where six Cypher checks land on the broken link and show the path that proves it.</p>
+      <p><a href="https://automationbot24x7.github.io/trailmark/">Live demo</a> · <a href="https://youtu.be/RA4vIVOmemc">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/trailmark">Code</a></p>
+    </td>
   </tr>
 </table>
 
