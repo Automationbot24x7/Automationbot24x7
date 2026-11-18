@@ -78,6 +78,14 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><a href="https://automationbot24x7.github.io/trailmark/">Live demo</a> · <a href="https://youtu.be/RA4vIVOmemc">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/trailmark">Code</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://automationbot24x7.github.io/near-quantum-check/"><img src="assets/quantum-check.jpg" alt="NEAR quantum-safe checker" width="100%"></a>
+      <p><b><a href="https://automationbot24x7.github.io/near-quantum-check/">NEAR quantum-safe checker</a></b>: type any NEAR account and see whether its keys are post-quantum (ML-DSA) or classic, with the three commands to upgrade. Includes a scan of every mainnet validator's owner account.</p>
+      <p><a href="https://automationbot24x7.github.io/near-quantum-check/">Try it free</a> · <a href="https://x.com/ReconScribe/status/2123038289171214513">Watch the video</a> · <a href="https://github.com/Automationbot24x7/near-quantum-check">Code</a></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 Mostly Python and JavaScript; onchain work on Sui, Walrus and NEAR.
