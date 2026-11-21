@@ -49,9 +49,9 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><a href="https://automationbot24x7.github.io/spendgrade/">Live site</a> · <a href="https://github.com/Automationbot24x7/spendgrade">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://automationbot24x7.github.io/hindsight/"><img src="assets/hindsight.jpg" alt="Hindsight" width="100%"></a>
-      <p><b><a href="https://github.com/Automationbot24x7/hindsight">Hindsight</a></b>: the pick journal that remembers who was right. Market calls are scored against live prices, and every outcome is kept on Walrus.</p>
-      <p><a href="https://automationbot24x7.github.io/hindsight/">Live site</a> · <a href="https://github.com/Automationbot24x7/hindsight">Code</a></p>
+      <a href="https://automationbot24x7.github.io/near-quantum-check/"><img src="assets/quantum-check.jpg" alt="NEAR quantum-safe checker" width="100%"></a>
+      <p><b><a href="https://automationbot24x7.github.io/near-quantum-check/">NEAR quantum-safe checker</a></b>: type any NEAR account and see whether its keys are post-quantum (ML-DSA) or classic, with the three commands to upgrade. Includes a scan of every mainnet validator's owner account.</p>
+      <p><a href="https://automationbot24x7.github.io/near-quantum-check/">Try it free</a> · <a href="https://x.com/ReconScribe/status/2123038289171214513">Watch the video</a> · <a href="https://github.com/Automationbot24x7/near-quantum-check">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -77,14 +77,6 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><b><a href="https://github.com/Automationbot24x7/trailmark">Trailmark</a></b>: why doesn't this invoice reconcile? Accounts payable as a Neo4j Relate graph, where six Cypher checks land on the broken link and show the path that proves it.</p>
       <p><a href="https://automationbot24x7.github.io/trailmark/">Live demo</a> · <a href="https://youtu.be/RA4vIVOmemc">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/trailmark">Code</a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://automationbot24x7.github.io/near-quantum-check/"><img src="assets/quantum-check.jpg" alt="NEAR quantum-safe checker" width="100%"></a>
-      <p><b><a href="https://automationbot24x7.github.io/near-quantum-check/">NEAR quantum-safe checker</a></b>: type any NEAR account and see whether its keys are post-quantum (ML-DSA) or classic, with the three commands to upgrade. Includes a scan of every mainnet validator's owner account.</p>
-      <p><a href="https://automationbot24x7.github.io/near-quantum-check/">Try it free</a> · <a href="https://x.com/ReconScribe/status/2123038289171214513">Watch the video</a> · <a href="https://github.com/Automationbot24x7/near-quantum-check">Code</a></p>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
