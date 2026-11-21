@@ -2,7 +2,7 @@
 
 I work in finance and automation, and I build with AI: finance apps, agent plugins, onchain games and narrated films. I also run [ReconScribe](https://reconscribe.com), free AI and finance tools and guides. Most of the projects below went from idea to live demo in a hackathon sprint of a few days.
 
-🏆 **Won Best Use of Verify, Compare, or Rerank, [Clocked Build Challenge](https://clocked.rezolve.ai/challenge)** (Nov 2026) for Proofdesk, out of 101 entries.<br>
+🏆 **Won Best Use of Verify, Compare, or Rerank, [Clocked Build Challenge](https://clocked.rezolve.ai/challenge)** (Nov 2026) for Proofdesk.<br>
 🥉 **Won 3rd Prize, [SandBase AI City Remix](https://www.sandbase.ai/lab/event/aicityremix)** (Nov 2026) for *One Ticket, 800 Years*, a film made with TimeLine.<br>
 🏅 **Special mention, [Bolt Builders Week](https://bolt.new/builders-week)** (Oct 2026) for WrappedLedger, out of 1,000s of entries.
 
