@@ -2,20 +2,33 @@
 
 I work in finance and automation, and I build with AI: finance apps, agent plugins, onchain games and narrated films. I also run [ReconScribe](https://reconscribe.com), free AI and finance tools and guides. Most of the projects below went from idea to live demo in a hackathon sprint of a few days.
 
+🏆 **Won Best Use of Verify, Compare, or Rerank, [Clocked Build Challenge](https://clocked.rezolve.ai/challenge)** (Nov 2026) for Proofdesk, out of 101 entries.<br>
 🥉 **Won 3rd Prize, [SandBase AI City Remix](https://www.sandbase.ai/lab/event/aicityremix)** (Nov 2026) for *One Ticket, 800 Years*, a film made with TimeLine.<br>
 🏅 **Special mention, [Bolt Builders Week](https://bolt.new/builders-week)** (Oct 2026) for WrappedLedger, out of 1,000s of entries.
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://automationbot24x7.github.io/proofdesk/"><img src="assets/proofdesk.jpg" alt="Proofdesk" width="100%"></a>
+      <p><b><a href="https://github.com/Automationbot24x7/proofdesk">Proofdesk</a></b>: makes a knowledge base safe for an AI help desk. Every HR and IT document is screened, and every answer is checked against its sources.</p>
+      <p>🏆 Won Best Use of Verify, Compare, or Rerank, Clocked Build Challenge<br><a href="https://automationbot24x7.github.io/proofdesk/">Live demo</a> · <a href="https://github.com/Automationbot24x7/proofdesk">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://www.sandbase.ai/lab/event/aicityremix/e/dae11f90-c303-491e-bd6a-7d24e04b40da"><img src="assets/timeline.jpg" alt="One Ticket, 800 Years" width="100%"></a>
       <p><b><a href="https://github.com/Automationbot24x7/timeline-city">TimeLine</a></b>: ride a metro line through a city's history. A pipeline that directs narrated, fact-checked map films over a 3D city.</p>
       <p>🥉 Won 3rd Prize, SandBase AI City Remix<br><a href="https://www.sandbase.ai/lab/event/aicityremix/e/dae11f90-c303-491e-bd6a-7d24e04b40da">Watch the film</a> · <a href="https://github.com/Automationbot24x7/timeline-city">Code</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://bank-statement-cinem-9ipm.bolt.host"><img src="assets/wrappedledger.jpg" alt="WrappedLedger" width="100%"></a>
       <p><b><a href="https://bank-statement-cinem-9ipm.bolt.host">WrappedLedger</a></b>: turns the bank statement you already have into a money plan. AI reads every line, then proves it to the cent against the closing balance.</p>
       <p>🏅 Special mention out of 1,000s of entries, Bolt Builders Week<br><a href="https://bank-statement-cinem-9ipm.bolt.host">Try it free</a> · <a href="https://www.youtube.com/watch?v=pqHyEfaAOHY">Watch the demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://hermes-agent.nousresearch.com/marketplace/tusk/"><img src="assets/tusk.jpg" alt="Tusk" width="100%"></a>
+      <p><b><a href="https://github.com/Automationbot24x7/hermes-tusk">Tusk</a></b>: long-term memory for Hermes Agent, stored on Walrus mainnet. Encrypted, owned by your key, and the same on every machine.</p>
+      <p>📦 Accepted into the official Hermes Agent plugin marketplace<br><a href="https://hermes-agent.nousresearch.com/marketplace/tusk/">Install from the marketplace</a> · <a href="https://github.com/Automationbot24x7/hermes-tusk">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -25,9 +38,9 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><a href="https://blindfold-audit.web.app">Live app</a> · <a href="https://github.com/Automationbot24x7/blindfold">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://hermes-agent.nousresearch.com/marketplace/tusk/"><img src="assets/tusk.jpg" alt="Tusk" width="100%"></a>
-      <p><b><a href="https://github.com/Automationbot24x7/hermes-tusk">Tusk</a></b>: long-term memory for Hermes Agent, stored on Walrus mainnet. Encrypted, owned by your key, and the same on every machine.</p>
-      <p><a href="https://hermes-agent.nousresearch.com/marketplace/tusk/">Hermes Marketplace</a> · <a href="https://github.com/Automationbot24x7/hermes-tusk">Code</a></p>
+      <a href="https://automationbot24x7.github.io/trailmark/"><img src="assets/trailmark.jpg" alt="Trailmark" width="100%"></a>
+      <p><b><a href="https://github.com/Automationbot24x7/trailmark">Trailmark</a></b>: why doesn't this invoice reconcile? Accounts payable as a Neo4j Relate graph, where six Cypher checks land on the broken link and show the path that proves it.</p>
+      <p><a href="https://automationbot24x7.github.io/trailmark/">Live demo</a> · <a href="https://youtu.be/RA4vIVOmemc">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/trailmark">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -37,9 +50,9 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><a href="https://bazaar.reconscribe.com">Play free</a> · <a href="https://github.com/Automationbot24x7/bazaar-sovereign">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://automationbot24x7.github.io/proofdesk/"><img src="assets/proofdesk.jpg" alt="Proofdesk" width="100%"></a>
-      <p><b><a href="https://github.com/Automationbot24x7/proofdesk">Proofdesk</a></b>: makes a knowledge base safe for an AI help desk. Every HR and IT document is screened, and every answer is checked against its sources.</p>
-      <p><a href="https://automationbot24x7.github.io/proofdesk/">Live demo</a> · <a href="https://github.com/Automationbot24x7/proofdesk">Code</a></p>
+      <a href="https://automationbot24x7.github.io/doodle-sumo/"><img src="assets/doodle-sumo.jpg" alt="Doodle Sumo" width="100%"></a>
+      <p><b><a href="https://automationbot24x7.github.io/doodle-sumo/">Doodle Sumo</a></b>: crayon doodles become 3D sumo toys. Every fighter, skeleton, move and desk-trap hinge was made with Aholo Lux3D; shove your rivals off a giant desk in the browser.</p>
+      <p><a href="https://automationbot24x7.github.io/doodle-sumo/">Play</a> · <a href="https://automationbot24x7.github.io/doodle-sumo/assets/video/doodle-sumo-demo.mp4">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/doodle-sumo">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -49,18 +62,6 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
       <p><a href="https://automationbot24x7.github.io/spendgrade/">Live site</a> · <a href="https://github.com/Automationbot24x7/spendgrade">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://automationbot24x7.github.io/near-quantum-check/"><img src="assets/quantum-check.jpg" alt="NEAR quantum-safe checker" width="100%"></a>
-      <p><b><a href="https://automationbot24x7.github.io/near-quantum-check/">NEAR quantum-safe checker</a></b>: type any NEAR account and see whether its keys are post-quantum (ML-DSA) or classic, with the three commands to upgrade. Includes a scan of every mainnet validator's owner account.</p>
-      <p><a href="https://automationbot24x7.github.io/near-quantum-check/">Try it free</a> · <a href="https://x.com/ReconScribe/status/2123038289171214513">Watch the video</a> · <a href="https://github.com/Automationbot24x7/near-quantum-check">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://reconscribe.com"><img src="assets/reconscribe.jpg" alt="ReconScribe" width="100%"></a>
-      <p><b><a href="https://reconscribe.com">ReconScribe</a></b>: a free AI leaderboard, AI credits and hackathon guides, plus finance and tax calculators, Excel templates and source-backed guides.</p>
-      <p><a href="https://reconscribe.com">reconscribe.com</a> · <a href="https://www.youtube.com/@ReconScribe">YouTube</a></p>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/Automationbot24x7/kane-signoff"><img src="assets/signoff.jpg" alt="Signoff" width="100%"></a>
       <p><b><a href="https://github.com/Automationbot24x7/kane-signoff">Signoff</a></b>: a coding agent isn't done until Kane CLI signs off. A Stop hook tests the app in a real browser and sends every failure back to the agent until it passes.</p>
       <p><a href="https://youtu.be/z3iJZXUgozs">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/kane-signoff">Code</a></p>
@@ -68,14 +69,14 @@ I work in finance and automation, and I build with AI: finance apps, agent plugi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://automationbot24x7.github.io/doodle-sumo/"><img src="assets/doodle-sumo.jpg" alt="Doodle Sumo" width="100%"></a>
-      <p><b><a href="https://automationbot24x7.github.io/doodle-sumo/">Doodle Sumo</a></b>: crayon doodles become 3D sumo toys. Every fighter, skeleton, move and desk-trap hinge was made with Aholo Lux3D; shove your rivals off a giant desk in the browser.</p>
-      <p><a href="https://automationbot24x7.github.io/doodle-sumo/">Play</a> · <a href="https://automationbot24x7.github.io/doodle-sumo/assets/video/doodle-sumo-demo.mp4">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/doodle-sumo">Code</a></p>
+      <a href="https://automationbot24x7.github.io/near-quantum-check/"><img src="assets/quantum-check.jpg" alt="NEAR quantum-safe checker" width="100%"></a>
+      <p><b><a href="https://automationbot24x7.github.io/near-quantum-check/">NEAR quantum-safe checker</a></b>: type any NEAR account and see whether its keys are post-quantum (ML-DSA) or classic, with the three commands to upgrade. Includes a scan of every mainnet validator's owner account.</p>
+      <p><a href="https://automationbot24x7.github.io/near-quantum-check/">Try it free</a> · <a href="https://x.com/ReconScribe/status/2123038289171214513">Watch the video</a> · <a href="https://github.com/Automationbot24x7/near-quantum-check">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://automationbot24x7.github.io/trailmark/"><img src="assets/trailmark.jpg" alt="Trailmark" width="100%"></a>
-      <p><b><a href="https://github.com/Automationbot24x7/trailmark">Trailmark</a></b>: why doesn't this invoice reconcile? Accounts payable as a Neo4j Relate graph, where six Cypher checks land on the broken link and show the path that proves it.</p>
-      <p><a href="https://automationbot24x7.github.io/trailmark/">Live demo</a> · <a href="https://youtu.be/RA4vIVOmemc">Watch the demo</a> · <a href="https://github.com/Automationbot24x7/trailmark">Code</a></p>
+      <a href="https://reconscribe.com"><img src="assets/reconscribe.jpg" alt="ReconScribe" width="100%"></a>
+      <p><b><a href="https://reconscribe.com">ReconScribe</a></b>: a free AI leaderboard, AI credits and hackathon guides, plus finance and tax calculators, Excel templates and source-backed guides.</p>
+      <p><a href="https://reconscribe.com">reconscribe.com</a> · <a href="https://www.youtube.com/@ReconScribe">YouTube</a></p>
     </td>
   </tr>
 </table>
